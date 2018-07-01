@@ -53,8 +53,6 @@ class Transfer
 		end
 	end
 
-
-arraay.includes(sean)
  
  end
 
